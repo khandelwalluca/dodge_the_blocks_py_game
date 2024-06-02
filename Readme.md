@@ -1,4 +1,4 @@
-#Game - Dodge the blocks
+# Game - Dodge the blocks
 
 This code sets up a basic Pygame window, handles user input, moves game objects, and detects collisions. The player uses the left and right arrow keys to move the rectangle and avoid the falling blocks. When a collision is detected, the game ends.
 
